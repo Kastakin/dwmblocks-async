@@ -5,5 +5,6 @@
 
 const Block blocks[] = {
     /*     script       interval(s)  signal  */
+	BLOCK("sb-cpu",     5,            2)
 	BLOCK("sb-date",    1,            1)
 };
